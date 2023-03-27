@@ -1,0 +1,2 @@
+Creamos el archivo activ32.txt
+Añadimos una nueva linea a  activ32.txt

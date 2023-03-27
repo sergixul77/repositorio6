@@ -1,0 +1,2 @@
+Creamos el archivo activ31.txt
+Añadimos una nueva linea a  activ31.txt
