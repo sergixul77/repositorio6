@@ -1,2 +1,4 @@
 Creamos el archivo activ31.txt
 Añadimos una nueva linea a  activ31.txt
+Añado segunda linea al fichero activ31.txt
+Añado tercera linea al fichero activ31.txt
